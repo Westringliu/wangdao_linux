@@ -1,0 +1,61 @@
+    1  su root
+    2  suer
+    3  # user
+    4  su Westring
+    5  useradd user1
+    6  sudo root
+    7  adduser user1
+    8  sudo Westring
+    9  man sudo_root
+   10  sudo Westring
+   11  sudo dl ie
+   12  uname -a
+   13  cat /ect/issue
+   14  cat \etc\issue
+   15  im-config
+   16  ls -a/root/home
+   17  ls -a\root\home
+   18  ls
+   19  ls -a
+   20  local
+   21  \local
+   22  /local
+   23  .local
+   24  cd/home/uaer
+   25  cd /home/user
+   26  cd
+   27  cd /home
+   28  cd /user
+   29  cd..
+   30  cd
+   31  cd-
+   32  cd
+   33  whoami
+   34  ls -a /root/home
+   35  ls -a
+   36  ls -a /root/home
+   37  su
+   38  ifconfig
+   39  ping www.baidu.com
+   40  sudo passwd
+   41  su
+   42  cd ..
+   43  cd ./westring
+   44  mkdir libso
+   45  cd ./libso/
+   46  vim multi.c
+   47  cat multi.c 
+   48  gcc -fPIC -Wall -c multi.c
+   49  ll
+   50  gcc -shared -o libmulti.so multi.o
+   51  ll
+   52  sudo cp libmulti.so /usr/lib
+   53  cd ..
+   54  cd ./libso
+   55  vim main.c
+   56  cat main.c 
+   57  gcc main.c -lmulti
+   58  ll
+   59  ./a.out
+   60  history
+   61  history >20180117_柳卫青.txt
